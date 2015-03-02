@@ -4,7 +4,7 @@
     <parent>
         <artifactId>demo-parent</artifactId>
         <groupId>com.meteogroup</groupId>
-        <version>1.0</version>
+        <version>1.0-SNAPSHOT</version>
         <relativePath>../release-demo/pom.xml</relativePath>
     </parent>
     <groupId>com.meteogroup</groupId>
