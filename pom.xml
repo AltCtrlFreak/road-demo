@@ -4,12 +4,12 @@
     <parent>
         <artifactId>demo-parent</artifactId>
         <groupId>com.meteogroup</groupId>
-        <version>1.1-SNAPSHOT</version>
+        <version>1.2-SNAPSHOT</version>
         <relativePath>../release-demo/pom.xml</relativePath>
     </parent>
     <groupId>com.meteogroup</groupId>
     <artifactId>road-demo</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
@@ -22,6 +22,7 @@
     <scm>
         <connection>${scmRoot}road-demo.git</connection>
         <developerConnection>${scmRoot}road-demo.git</developerConnection>
+    <tag>demo-parent-1.1</tag>
   </scm>
     <build>
         <plugins>
