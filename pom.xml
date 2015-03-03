@@ -21,6 +21,7 @@
     </dependencies>
     <scm>
         <connection>${scmRoot}road-demo.git</connection>
+        <developerConnection>${scmRoot}road-demo.git</developerConnection>
   </scm>
     <build>
         <plugins>
