@@ -4,7 +4,7 @@
 
     <groupId>com.meteogroup</groupId>
     <artifactId>road-demo</artifactId>
-    <version>1.3</version>
+    <version>1.5</version>
     <packaging>jar</packaging>
     <properties>
         <scmRoot>scm:git:https://AltCtrlFreak@github.com/AltCtrlFreak/</scmRoot>
