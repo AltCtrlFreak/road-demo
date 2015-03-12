@@ -22,7 +22,6 @@
     <scm>
         <connection>${scmRoot}road-demo.git</connection>
         <developerConnection>${scmRoot}road-demo.git</developerConnection>
-    <tag>demo-parent-1.2</tag>
   </scm>
     <build>
         <plugins>
@@ -31,7 +30,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.3</version>
                 <configuration>                           <pushChanges>false</pushChanges>
-                    <localCheckout>false</localCheckout>
+                    <localCheckout>true</localCheckout>
 
                     <commitByProject>true</commitByProject>
                 </configuration>
