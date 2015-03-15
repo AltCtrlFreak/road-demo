@@ -8,7 +8,7 @@
     </parent>
     <groupId>com.meteogroup</groupId>
     <artifactId>road-demo</artifactId>
-    <version>6.3-SNAPSHOT</version>
+    <version>6.3</version>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
